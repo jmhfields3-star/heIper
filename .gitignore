@@ -12,3 +12,31 @@ profile.svg
 
 # Time trace
 trace.json
+
+# Build output
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Wally
+/Packages/
+/ServerPackages/
+/DevPackages/
+wally.lock
+
+# Tooling
+/.lune/
+/node_modules/
+sourcemap.json
+/out/
+/build/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
